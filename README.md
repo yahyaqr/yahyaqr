@@ -1,11 +1,8 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-First and foremost, I love graphic design :paintbrush:, writing code :computer:, and educating people :man_teacher:.
+### First and foremost, I love graphic design :paintbrush:, writing code :computer:, and educating people :man_teacher:.
 
-## Frontend Development
-I found my love for frontend development because frontend developers combine graphic design and programming skills to help users better understand how to use an application. I enjoy testing and implementing user interface designs repeatedly to determine the best design composition. I also find enjoyment when my products have been launched and used by many people.
-
-Skills/Interest:
+### Skills/Interest:
 ![#](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![#](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
 ![#](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
@@ -19,7 +16,7 @@ Skills/Interest:
 ![#](https://img.shields.io/badge/Design-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF)
 ![#](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
 
-📫 How to reach me: ...
+### 📫 How to reach me:
  - :bulb: [Medium articles](https://medium.com/@yahyaqr)
  - :pencil2: [Personal blogs](https://yahyaqr.github.com/)
  - :office: [LinkedIn profiles](https://www.linkedin.com/in/yahya-aqrom/)
