@@ -19,9 +19,13 @@ I found my love for frontend development because frontend developers combine gra
 
 Skills/Interest:
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Phyton&logoColor=white&color=3776AB)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4)
+![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=flat&logo=CodeIgniter&logoColor=white&color=EF4223)
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-FastAPI-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 Adobe Illustrator, Adobe Photoshop, Figma, HTML, CSS, Javascript, Bootstrap, Vue.
 
