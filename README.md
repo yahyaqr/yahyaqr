@@ -1,5 +1,7 @@
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
+![](https://media-exp1.licdn.com/dms/image/C5616AQGT4yJtWdiMfg/profile-displaybackgroundimage-shrink_350_1400/0/1631298103462?e=1646265600&v=beta&t=CHOf0bL_5-vtX6DeseJgpiAG9riKIiSNLRPUM_geb6k)
+
 #### About Me:
 
 First and foremost, I love graphic design :paintbrush:, writing code :computer:, and educating people :man_teacher:. I'm not good at performance and charisma, but I can understand why humans do things and how to exploit it.
