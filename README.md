@@ -21,6 +21,7 @@ I found my love for frontend development because frontend developers combine gra
 ![#](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
 
 #### How to reach me:
- - :bulb: [Medium articles](https://medium.com/@yahyaqr)
- - :pencil2: [Personal blogs](https://yahyaqr.github.com/)
- - :office: [LinkedIn profiles](https://www.linkedin.com/in/yahya-aqrom/)
+ - [Website](https://yahyaqr.github.com/)
+ - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
+ - [Medium](https://medium.com/@yahyaqr)
+ - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
