@@ -1,3 +1,5 @@
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+
 First and foremost, I love graphic design :paintbrush:, writing code :computer:, and educating people :man_teacher:.
 
 I'm not good at aesthetics, but I understand design systems and design principles well. I'm not good at performance and charisma, but I can understand why humans do things and how to exploit it.
