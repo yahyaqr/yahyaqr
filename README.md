@@ -18,7 +18,7 @@ I'm not good at performance and charisma, but I can understand why humans do thi
 I found my love for frontend development because frontend developers combine graphic design and programming skills to help users better understand how to use an application. I enjoy testing and implementing user interface designs repeatedly to determine the best design composition. I also find enjoyment when my products have been launched and used by many people.
 
 Skills/Interest:
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=#0078D6)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/<WORD_ON_LEFT>-<WORD_ON_RIGHT>-informational?style=flat&logo=<LOGO_NAME>&logoColor=white&color=2bbc8a)
