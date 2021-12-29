@@ -19,7 +19,7 @@ I found my love for frontend development because frontend developers combine gra
 
 Skills/Interest:
 ![#](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
-![#](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=Visual Studio Code&logoColor=white&color=007ACC)
+![#](https://img.shields.io/badge/Editor-VS Code-informational?style=flat&logo=Visual_Studio_Code&logoColor=white&color=007ACC)
 ![#](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=F7DF1E)
 ![#](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Python&logoColor=white&color=3776AB)
 ![#](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=777BB4)
