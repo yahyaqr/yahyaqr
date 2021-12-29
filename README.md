@@ -6,6 +6,12 @@ First and foremost, I love graphic design :paintbrush:, writing code :computer:,
 
 I found my love for frontend development because frontend developers combine graphic design and programming skills to help users better understand how to use an application. I enjoy testing and implementing user interface designs repeatedly to determine the best design composition. I also find enjoyment when my products have been launched and used by many people.
 
+#### How to reach me:
+ - [Website](https://yahyaqr.github.com/)
+ - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
+ - [Medium](https://medium.com/@yahyaqr)
+ - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
+
 #### Skills/Interest:
 ![#](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=0078D6)
 ![#](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC)
@@ -19,9 +25,3 @@ I found my love for frontend development because frontend developers combine gra
 ![#](https://img.shields.io/badge/Design-Adobe_Illustrator-informational?style=flat&logo=adobeillustrator&logoColor=white&color=FF9A00)
 ![#](https://img.shields.io/badge/Design-Adobe_Photoshop-informational?style=flat&logo=adobephotoshop&logoColor=white&color=31A8FF)
 ![#](https://img.shields.io/badge/Design-Figma-informational?style=flat&logo=Figma&logoColor=white&color=F24E1E)
-
-#### How to reach me:
- - [Website](https://yahyaqr.github.com/)
- - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
- - [Medium](https://medium.com/@yahyaqr)
- - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
