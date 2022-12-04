@@ -4,9 +4,13 @@
 
 #### About Me:
 
-First and foremost, I love graphic design :paintbrush:, writing code :computer:, and educating people :man_teacher:. I'm not good at aesthetics, but I understand design systems and design principles well. I'm not good at showbiz and charisma, but I can understand why humans do things and how to exploit it. I accept my vulnerabilities as a cause to harness my strength.
+As an aspiring and passionate frontend engineer, I am dedicated to building engaging and user-friendly web applications using the latest technologies and best practices.
 
-I found my love for frontend development because frontend developers combine graphic design and programming skills to help users better understand how to use an application. I enjoy testing and implementing user interface designs repeatedly to determine the best design composition. I also find enjoyment when my products have been launched and used by many people.
+With a focus on React, I am skilled in Bootstrap, Tailwind, and SASS, and have experience working with Vue.js, CodeIgniter, Node.js, Express.js, Hapi, and FastAPI.
+
+I am also proficient in Figma, Photoshop, and Illustrator, and have a strong background in visual design and user experience.
+
+My goal is to continuously learn, grow, and make a positive impact through my work. I am excited to connect and collaborate with other like-minded professionals in the field.
 
 #### Table of Contents:
 - [My Freelance Works Repo](https://github.com/search?q=user%3Ayahyaqr+freelance)
