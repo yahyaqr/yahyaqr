@@ -6,7 +6,7 @@
 
 As an **aspiring and passionate frontend engineer**, I am dedicated to building engaging and user-friendly web applications using the latest technologies and best practices. 💻🔥
 
-With a **focus on React**, I am **skilled** in Bootstrap, Tailwind, and SASS, and **have experience** working with Vue.js, CodeIgniter, Node.js, Express.js, Hapi, and FastAPI.
+With a **focus on React**, I am **skilled** in Bootstrap, Tailwind, and SASS, and **have experience** working with Vue.js, CodeIgniter, Node.js,  Hapi.js, Express.js, and FastAPI.
 
 I am also **proficient** in Figma, Photoshop, and Illustrator, and have a strong background in visual design and user experience.
 
