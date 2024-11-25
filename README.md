@@ -8,11 +8,14 @@ I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovati
 🔧 As a Full Stack Developer, I am proficient in:
 
 **Frontend:** Vue.js, React, React Native, Bootstrap, Tailwind, and SASS.
+
 **Backend etc:** Node.js, Hapi.js, FastAPI, CodeIgniter, Electron.js, and Capacitor.js.
 
 💡 My interests extend into AI implementation and AIoT (Artificial Intelligence of Things), where I aim to bridge technology and innovation for meaningful problem-solving.
 
-🎨 Bonus Skills: Proficiency in design tools like Figma, Photoshop, and Illustrator, ensuring a holistic approach to user experience and visual design.
+🎨 **Bonus Skills:**
+
+Proficiency in design tools like Figma, Photoshop, and Illustrator, ensuring a holistic approach to user experience and visual design.
 
 
 Let’s connect and build something amazing together! 🤝✨
