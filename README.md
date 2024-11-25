@@ -3,13 +3,12 @@
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGT4yJtWdiMfg/profile-displaybackgroundimage-shrink_350_1400/0/1631298103462?e=1646265600&v=beta&t=CHOf0bL_5-vtX6DeseJgpiAG9riKIiSNLRPUM_geb6k)
 
 ### About Me:
-Hi there! 👋 I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovative software solutions. With experience spanning desktop, mobile, and web development, I’ve successfully executed projects across various domains, including entrepreneurial ventures in aquaculture and embedded systems. 🌟
+I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovative software solutions. With experience spanning desktop, mobile, and web development, I’ve successfully executed projects across various domains, including entrepreneurial ventures in aquaculture and embedded systems. 🌟
 
 🔧 As a Full Stack Developer, I am proficient in:
 
-Frontend: Vue.js, React, React Native, Bootstrap, Tailwind, and SASS.
-Backend & Tools: Node.js, Hapi.js, FastAPI, CodeIgniter, Electron.js, and Capacitor.js.
-Version Control: Git for seamless collaboration and project management.
+**Frontend:** Vue.js, React, React Native, Bootstrap, Tailwind, and SASS.
+**Backend etc:** Node.js, Hapi.js, FastAPI, CodeIgniter, Electron.js, and Capacitor.js.
 
 💡 My interests extend into AI implementation and AIoT (Artificial Intelligence of Things), where I aim to bridge technology and innovation for meaningful problem-solving.
 
@@ -24,8 +23,6 @@ Let’s connect and build something amazing together! 🤝✨
 
 #### How to reach me:
  - [Website](https://www.yahyaqr.xyz/)
- - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
- - [Medium](https://medium.com/@yahyaqr)
  - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
 
 #### Skills/Interest:
