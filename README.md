@@ -2,7 +2,7 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGT4yJtWdiMfg/profile-displaybackgroundimage-shrink_350_1400/0/1631298103462?e=1646265600&v=beta&t=CHOf0bL_5-vtX6DeseJgpiAG9riKIiSNLRPUM_geb6k)
 
-About Me:
+### About Me:
 Hi there! 👋 I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovative software solutions. With experience spanning desktop, mobile, and web development, I’ve successfully executed projects across various domains, including entrepreneurial ventures in aquaculture and embedded systems. 🌟
 
 🔧 As a Full Stack Developer, I am proficient in:
