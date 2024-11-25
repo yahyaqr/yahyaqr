@@ -7,8 +7,8 @@ I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovati
 **Backend etc:** Node.js, Hapi.js, FastAPI, CodeIgniter, Electron.js, and Capacitor.js.
 
 #### Table of Contents:
-- [My Freelance Works Repo](https://github.com/search?q=user%3Ayahyaqr+freelance)
-- [My Personal Projects Repo](https://github.com/search?q=user%3Ayahyaqr+projects)
+- [My Freelance Works Repo](https://github.com/search?q=user%3Ayahyaqr+freelance&type=repositories)
+- [My Personal Projects Repo](https://github.com/search?q=user%3Ayahyaqr+projects&type=repositories)
 
 #### How to reach me:
  - [Website](https://www.yahyaqr.xyz/)
