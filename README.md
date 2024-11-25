@@ -2,25 +2,28 @@
 
 ![](https://media-exp1.licdn.com/dms/image/C5616AQGT4yJtWdiMfg/profile-displaybackgroundimage-shrink_350_1400/0/1631298103462?e=1646265600&v=beta&t=CHOf0bL_5-vtX6DeseJgpiAG9riKIiSNLRPUM_geb6k)
 
-#### About Me:
+About Me:
+Hi there! 👋 I'm a mid-level Full Stack Engineer passionate about crafting scalable, innovative software solutions. With experience spanning desktop, mobile, and web development, I’ve successfully executed projects across various domains, including entrepreneurial ventures in aquaculture and embedded systems. 🌟
 
-As an **aspiring and passionate frontend engineer**, I am dedicated to building engaging and user-friendly web applications using the latest technologies and best practices. 💻🔥
+🔧 As a Full Stack Developer, I am proficient in:
 
-With a **focus on React**, I am **skilled** in Bootstrap, Tailwind, and SASS, and **have experience** working with Vue.js, CodeIgniter, Node.js,  Hapi.js, Express.js, and FastAPI.
+Frontend: Vue.js, React, React Native, Bootstrap, Tailwind, and SASS.
+Backend & Tools: Node.js, Hapi.js, FastAPI, CodeIgniter, Electron.js, and Capacitor.js.
+Version Control: Git for seamless collaboration and project management.
 
-I am also **proficient** in Figma, Photoshop, and Illustrator, and have a strong background in visual design and user experience.
+💡 My interests extend into AI implementation and AIoT (Artificial Intelligence of Things), where I aim to bridge technology and innovation for meaningful problem-solving.
 
-My goal is to continuously learn, grow, and make a positive impact through my work. I am excited to connect and collaborate with other like-minded professionals in the field. 🌲
+🎨 Bonus Skills: Proficiency in design tools like Figma, Photoshop, and Illustrator, ensuring a holistic approach to user experience and visual design.
+
+
+Let’s connect and build something amazing together! 🤝✨
 
 #### Table of Contents:
 - [My Freelance Works Repo](https://github.com/search?q=user%3Ayahyaqr+freelance)
 - [My Personal Projects Repo](https://github.com/search?q=user%3Ayahyaqr+projects)
-- [Learning React Repo](https://github.com/search?q=user%3Ayahyaqr+learn-react)
-- [Learning NextJS Repo](https://github.com/search?q=user%3Ayahyaqr+learn-nextjs)
-- [Learning React Native Repo](https://github.com/search?q=user%3Ayahyaqr+learn-reactnative)
 
 #### How to reach me:
- - [Website](https://yahyaqr.github.com/)
+ - [Website](https://www.yahyaqr.xyz/)
  - [Instagram](https://www.instagram.com/yahyaqr/?hl=id)
  - [Medium](https://medium.com/@yahyaqr)
  - [LinkedIn](https://www.linkedin.com/in/yahya-aqrom/)
